@@ -118,7 +118,7 @@ const App = () => {
           >
 
             <Image
-             source={{ uri: 'https://www.pngfind.com/pngs/m/61-615737_microphone-free-vector-icon-designed-by-freepik-icon.png' }}
+             source={require('./mic_button.png')}
              style={{ width: 50, height: 50 }}
             />
           </TouchableOpacity>
