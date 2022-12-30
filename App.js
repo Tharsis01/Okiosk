@@ -30,19 +30,14 @@ import { Storage } from "@aws-amplify/storage"
 
 
 const App = () => {
+  // Storage.put("test2.txt", "File content", {
+  //   progressCallback(progress) {
+  //     console.log(`Uploaded: ${progress.loaded}/${progress.total}`);
+  //   },
+  // });
+
   const [result, setResult] = useState('')
   const [isLoading, setLoading] = useState(false)
-  const _onPressSpeech = () => {
-    Tts.stop();
-    Tts.speak('안녕하세요', {
-      androidParams: {
-        KEY_PARAM_PAN: -1,
-        KEY_PARAM_VOLUME: 0.5,
-        KEY_PARAM_STREAM: 'STREAM_MUSIC',
-      },
-    });
-  }
-
 
   Tts.setDefaultLanguage('ko-KR');
   Tts.addEventListener('tts-start', event => console.log('start', event));
@@ -53,11 +48,14 @@ const App = () => {
     Voice.onSpeechStart = onSpeechStartHandler;
     Voice.onSpeechEnd = onSpeechEndHandler;
     Voice.onSpeechResults = onSpeechResultsHandler;
-    _onPressSpeech();
-    
+
     return () => {
       Voice.destroy().then(Voice.removeAllListeners);
-
+      Storage.put("test2.txt", result, {
+        progressCallback(progress) {
+          console.log(`Uploaded: ${progress.loaded}/${progress.total}`);
+        },
+      });
     }
   }, [])
 
@@ -72,9 +70,6 @@ const App = () => {
   const onSpeechResultsHandler = (e) => {
     let text = e.value[0]
     setResult(text)
-    Storage.put('test8.txt', text)
-        .then(event => console.log('result from successful upload: ', event))
-        .catch(error => console.log('error uploading to s3:', error));
     console.log("speech result handler", e)
   }
 
@@ -85,6 +80,22 @@ const App = () => {
     } catch (error) {
       console.log("error raised", error)
     }
+  }
+  const _onPressSpeech = () => {
+    Tts.stop();
+    Tts.speak('안녕하세요', {
+      androidParams: {
+        KEY_PARAM_PAN: -1,
+        KEY_PARAM_VOLUME: 0.5,
+        KEY_PARAM_STREAM: 'STREAM_MUSIC',
+      },
+    });
+  }
+
+  const upload = (event) => {
+    Storage.put('test1.txt', result)
+        .then(event => console.log('result from successful upload: ', event))
+        .catch(error => console.log('error uploading to s3:', error));
   }
 
   const stopRecording = async () => {
@@ -106,6 +117,14 @@ const App = () => {
        
         <View style={styles.textInputStyle}>
 
+        <TouchableOpacity
+            style={{
+              alignSelf: 'center',
+            }}
+           onPress2={_onPressSpeech}
+          >
+
+          </TouchableOpacity>
         {isLoading ? <ActivityIndicator size="large" color="red" />
 
           :
@@ -124,11 +143,21 @@ const App = () => {
           </TouchableOpacity>
           
           }
-          
+          <TouchableOpacity
+            style={{
+              alignSelf: 'center',
+            }}
+            onPress={upload}
+          >
+
+            <Image
+             source={{ uri: 'https://www.pngfind.com/pngs/m/61-615737_microphone-free-vector-icon-designed-by-freepik-icon.png' }}
+             style={{ width: 50, height: 50 }}
+            />
+          </TouchableOpacity>
         </View>
 
         <Text style={styles.resultText}>{result}{'\n'}</Text>
-
       </SafeAreaView>
     </View>
   );
