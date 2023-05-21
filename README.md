@@ -31,8 +31,7 @@
 
 
 ### 시선추적페이지
-<p align="center">![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ebab828b-9a11-4566-bd90-aa7debabb6ce)</p>
-
+<p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/ebab828b-9a11-4566-bd90-aa7debabb6ce"></p>
 ### 노인용 주문화면
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/872cbf4b-4c28-4e17-bcef-15bdfa4d8f6b)
 
