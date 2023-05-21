@@ -22,15 +22,13 @@
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/6b2e7635-189c-4e55-8ed8-23404785ba3e)
 
 ---
-### 어플 실행화면
+#### 어플 실행화면
 1 | 2 | 3 | 4
 ---- | ---- | ---- | ----
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/90a5221b-4be0-4cdc-98f2-53a06c27b7a9) | ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ad77a575-1b07-4deb-b89f-583bf93f50be) | ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/2d9d5859-88f5-4246-9239-7b07e7bbe547) | ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/e75b7097-81a0-4aed-9421-2f25f32abd64)
 
 
-
-
-### 웹 활용한 키오스크 주문 화면
+#### 웹 활용한 키오스크 주문 화면
 <p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/379bef5e-9813-48d0-8a9a-5cd6026d0429"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/a8dcf2ed-ac0f-4082-be02-ba41763bb55d"></p>
 
  1 | 2 | 3 | 4 
@@ -38,10 +36,10 @@
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/e55e97ad-b9ee-4556-b785-de52d5cb3a4c)|![image](https://github.com/Tharsis01/Okiosk/assets/113442040/55e91e9c-9836-4faa-907d-7a27801fa6d9)|![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ede6862b-675f-4dc3-97c6-1ea092855ebe)|![image](https://github.com/Tharsis01/Okiosk/assets/113442040/0acbec89-ca13-4320-ba04-cdd46a470c93)
 
 
-### 시선추적페이지
+#### 시선추적페이지
 <p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/ebab828b-9a11-4566-bd90-aa7debabb6ce"></p>
 
-### 노인용 주문화면
+#### 노인용 주문화면
 
 <p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/872cbf4b-4c28-4e17-bcef-15bdfa4d8f6b"></p>
 
