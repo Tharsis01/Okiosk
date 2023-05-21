@@ -22,3 +22,7 @@
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/6b2e7635-189c-4e55-8ed8-23404785ba3e)
 
 ---
+
+![image](https://github.com/Tharsis01/Okiosk/assets/113442040/90a5221b-4be0-4cdc-98f2-53a06c27b7a9)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ad77a575-1b07-4deb-b89f-583bf93f50be)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/2d9d5859-88f5-4246-9239-7b07e7bbe547)
+
+
