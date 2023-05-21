@@ -9,7 +9,7 @@
 
 ### 참고 영상
 [![Video Label](http://img.youtube.com/vi/vlJbVYn9a00/0.jpg)](https://www.youtube.com/watch?v=vlJbVYn9a00)
-[![Video Label](https://github.com/Tharsis01/Okiosk/assets/113442040/b08e9cfa-881e-49b4-b630-8807206dfda6)](https://www.youtube.com/shorts/cQWTsgChXO0)
+[![Video Label](![image](https://github.com/Tharsis01/Okiosk/assets/113442040/d147d81e-2aaa-406a-b220-1dbe73b2f2e7))](https://www.youtube.com/shorts/cQWTsgChXO0)
 
 
 ---
