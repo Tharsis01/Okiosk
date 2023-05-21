@@ -33,7 +33,12 @@
 ### 웹 활용한 키오스크 주문 화면
 <p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/379bef5e-9813-48d0-8a9a-5cd6026d0429"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/a8dcf2ed-ac0f-4082-be02-ba41763bb55d"></p>
 
-
+1 | 2
+---- | ----
+|
+3 | 4
+---- | ----
+|
 
 ### 시선추적페이지
 <p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/ebab828b-9a11-4566-bd90-aa7debabb6ce"></p>
