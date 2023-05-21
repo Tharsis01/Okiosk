@@ -8,7 +8,9 @@
 3. 어플 연동을 통한 간단한 주문
 
 ### 참고 영상
+[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://www.youtube.com/shorts/cQWTsgChXO0)
 
+[![Video Label](http://img.youtube.com/vi/vlJbVYn9a00/0.jpg)](https://www.youtube.com/watch?v=vlJbVYn9a00)
 
 
 
