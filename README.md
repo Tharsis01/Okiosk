@@ -8,8 +8,8 @@
 3. 어플 연동을 통한 간단한 주문
 
 ### 참고 영상
-<iframe width="956" height="538" src="https://www.youtube.com/shorts/cQWTsgChXO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Video Label](http://img.youtube.com/vi/vlJbVYn9a00/0.jpg)](https://www.youtube.com/watch?v=vlJbVYn9a00)
+[![Video Label](http://img.youtube.com/vi/shorts/cQWTsgChXO0/0.jpg)](https://www.youtube.com/shorts/cQWTsgChXO0)
 
 
 ---
