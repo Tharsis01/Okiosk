@@ -18,7 +18,7 @@
 
 ---
 ## 작품 기능
-### 자료흐름도
+#### 자료흐름도
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/6b2e7635-189c-4e55-8ed8-23404785ba3e)
 
 ---
