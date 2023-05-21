@@ -9,7 +9,9 @@
 
 #### - 참고 영상
 
+---
 <https://www.youtube.com/watch?v=vlJbVYn9a00>
+
 ---
 시각장애인이면 너 혹시 키오스크 이렇게 해? #상황극
 <https://www.youtube.com/shorts/cQWTsgChXO0>
