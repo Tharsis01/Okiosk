@@ -7,7 +7,7 @@
 2. **노인**👴👵을 위한 키오스크 편의성 증대
 3. 어플 연동을 통한 간단한 주문
 
-### 참고 영상
+#### -참고 영상
 [![Video Label](http://img.youtube.com/vi/vlJbVYn9a00/0.jpg)](https://www.youtube.com/watch?v=vlJbVYn9a00)
 <https://www.youtube.com/shorts/cQWTsgChXO0>
 
