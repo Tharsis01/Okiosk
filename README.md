@@ -43,4 +43,4 @@
 
 <p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/872cbf4b-4c28-4e17-bcef-15bdfa4d8f6b"></p>
 
-:가운데 정렬:
+:----: ㅇㅇㅇ
