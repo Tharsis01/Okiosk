@@ -19,7 +19,7 @@
 ---
 ## 작품 기능
 #### 요약
-<p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/5512272b-9b50-4bdc-8a04-b8122e2ff28c" width="300" height="300"></p>
+<p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/5512272b-9b50-4bdc-8a04-b8122e2ff28c" width="70%" height="70%"></p>
 
 #### 자료흐름도
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/6b2e7635-189c-4e55-8ed8-23404785ba3e)
