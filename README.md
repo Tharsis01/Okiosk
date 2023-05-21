@@ -26,9 +26,7 @@
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/90a5221b-4be0-4cdc-98f2-53a06c27b7a9)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ad77a575-1b07-4deb-b89f-583bf93f50be)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/2d9d5859-88f5-4246-9239-7b07e7bbe547)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/e75b7097-81a0-4aed-9421-2f25f32abd64)
 
 ### 웹 활용한 키오스크 주문 화면
-<p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/379bef5e-9813-48d0-8a9a-5cd6026d0429"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"></p>
-![image](https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/a8dcf2ed-ac0f-4082-be02-ba41763bb55d)
-
+<p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/379bef5e-9813-48d0-8a9a-5cd6026d0429"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/a8dcf2ed-ac0f-4082-be02-ba41763bb55d"></p>
 
 
 
