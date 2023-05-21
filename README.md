@@ -22,7 +22,17 @@
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/6b2e7635-189c-4e55-8ed8-23404785ba3e)
 
 ---
+### 어플 실행화면
+![image](https://github.com/Tharsis01/Okiosk/assets/113442040/90a5221b-4be0-4cdc-98f2-53a06c27b7a9)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ad77a575-1b07-4deb-b89f-583bf93f50be)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/2d9d5859-88f5-4246-9239-7b07e7bbe547)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/e75b7097-81a0-4aed-9421-2f25f32abd64)
 
-![image](https://github.com/Tharsis01/Okiosk/assets/113442040/90a5221b-4be0-4cdc-98f2-53a06c27b7a9)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ad77a575-1b07-4deb-b89f-583bf93f50be)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/2d9d5859-88f5-4246-9239-7b07e7bbe547)
+### 웹 활용한 키오스크 주문 화면
+![image](https://github.com/Tharsis01/Okiosk/assets/113442040/379bef5e-9813-48d0-8a9a-5cd6026d0429)![image](https://github.com/Tharsis01/Okiosk/assets/113442040/994f7d80-aab0-4812-b12a-fd59c85e7f4b)
+
+
+### 시선추적페이지
+![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ebab828b-9a11-4566-bd90-aa7debabb6ce)
+
+### 노인용 주문화면
+![image](https://github.com/Tharsis01/Okiosk/assets/113442040/872cbf4b-4c28-4e17-bcef-15bdfa4d8f6b)
 
 
