@@ -34,7 +34,7 @@
 <p align="center"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/379bef5e-9813-48d0-8a9a-5cd6026d0429"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/14c74008-4d9e-49e8-a944-4859133ee4ef"><img src="https://github.com/Tharsis01/Okiosk/assets/113442040/a8dcf2ed-ac0f-4082-be02-ba41763bb55d"></p>
 
 |1 | 2|
-|:---- | ----:|
+|: ---- :|: ----:|
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/e55e97ad-b9ee-4556-b785-de52d5cb3a4c)|![image](https://github.com/Tharsis01/Okiosk/assets/113442040/55e91e9c-9836-4faa-907d-7a27801fa6d9)
 |3 | 4|
 ![image](https://github.com/Tharsis01/Okiosk/assets/113442040/ede6862b-675f-4dc3-97c6-1ea092855ebe)|![image](https://github.com/Tharsis01/Okiosk/assets/113442040/0acbec89-ca13-4320-ba04-cdd46a470c93)
